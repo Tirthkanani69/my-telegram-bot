@@ -1,10 +1,11 @@
 {
-  "name": "my-goal-bot",
+  "name": "premium-goal-bot",
   "version": "1.0.0",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.61.0"
+    "node-telegram-bot-api": "^0.61.0",
+    "lowdb": "^5.0.5"
   }
 }
